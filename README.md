@@ -37,7 +37,7 @@ Andrometa is a next-generation NFT marketplace built on Ethereum, enabling users
 
 ```bash
 git clone https://github.com/yourusername/zkmarketplace.git
-cd andrometa-marketplace
+cd zkmarketplace
 ```
 
 2. Install dependencies
